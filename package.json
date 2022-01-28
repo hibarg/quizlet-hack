@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack"
   },
-  "author": "glizzz_y",
+  "author": "gliz",
   "license": "ISC",
   "devDependencies": {
     "@webpack-cli/generators": "^2.4.1",

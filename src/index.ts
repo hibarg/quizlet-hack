@@ -18,7 +18,7 @@ const getGameData = async (gameCode: string | null) => {
 }
 
 (async () => {
-    alert(`Created by glizzz_y \n\nPress E to auto answer!`);
+    alert(`Created by gliz \n\nPress E to auto answer!`);
 
     const gameCode = prompt('Enter Game Code: ');
 
